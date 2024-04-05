@@ -1,4 +1,5 @@
 A linha de código no arquivo style.css que estiliza o body do site é:
+
 body{
     height: 100%;
     margin: 0;
@@ -10,3 +11,7 @@ body{
 }
 
 As linhas de código que determinam o usuário e senha como variaveis no arquivo script.js são: 
+
+    const username = loginForm.username.value;
+    const password = loginForm.password.value;
+
