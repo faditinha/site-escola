@@ -1,0 +1,12 @@
+A linha de código no arquivo style.css que estiliza o body do site é:
+body{
+    height: 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    background-color: #3a3a3a;
+}
+
+As linhas de código que determinam o usuário e senha como variaveis no arquivo script.js são: 
