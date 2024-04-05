@@ -7,7 +7,7 @@ loginBottun.addEventListener("click", (e) => {
     const username = loginForm.username.value;
     const password = loginForm.password.value;
 
-    if (username === "aluno" && password === "exemplo@"){
+    if (username === "le.pelisson" && password === "aaaaaa17"){
         alert("Você fez login com sucesso !!!");
         location.reload();
     } else {
